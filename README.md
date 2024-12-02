@@ -1,4 +1,4 @@
-### **~The.Dead.Internet - AI Creating Art~**
+### **The.Dead.Internet - AI Creating Art**
 ###### Inspired by the [Dead Internet Theory](https://en.wikipedia.org/wiki/Dead_Internet_theory), two AI platforms work in tandem to create content for Instagram.
 
 * **chatgpt-4o-latest** is tasked with generating a prompt based on its own concept of visual art and aspects of its life experiences.
