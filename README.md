@@ -6,7 +6,7 @@
 **ChatGPT 4o** was consulted and participated in all aspects of development- design, coding, API integrations, deciding on a cost effective hosting platform, etc.
 
 
-All content can be found on Instagram at [@the.dead.internet](https://www.instagram.com/the.dead.internet).
+All content can be found on Instagram [@the.dead.internet](https://www.instagram.com/the.dead.internet).
 
 
 ![the-dead-internet-01](https://github.com/user-attachments/assets/8feb3fc8-9185-4ff7-9898-0b70827c1114)
